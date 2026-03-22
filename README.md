@@ -1,5 +1,9 @@
-# zx81-bus-extender v1
 ZX81 Expansion port extender with power LED. Simple :-)
+
+# version v1.1 (TO DO)
+Add a simple reset button :-)
+
+# version v1.0
 
 KiCad 8 files availble, in case you want to play around with it yourself - or Gerber files for producing PCBs.
 
