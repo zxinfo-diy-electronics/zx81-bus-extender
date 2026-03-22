@@ -1,6 +1,7 @@
+# ZX81 Bus Extender
 ZX81 Expansion port extender with power LED. Simple :-)
 
-# version v1.1 (TO DO)
+# Planned for v1.1
 Add a simple reset button :-)
 
 # version v1.0
